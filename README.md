@@ -1,2 +1,1 @@
-# homework16
-D3-challenge
+d3-challenge
